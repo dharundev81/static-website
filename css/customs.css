@@ -1,0 +1,168 @@
+.logo{
+    margin-left: -20px;
+    width: 300px;
+    margin-top: -8px;
+}
+
+.group{
+    background: url(img/bg-news-letter.jpg) !important;
+    background-position-y: -120px !important;
+    background-repeat: no-repeat !important;
+    background-position-x: 65px !important;
+}
+
+.head{
+    margin-top: 130px !important;
+}
+
+.home-wrapper{
+    margin-bottom: -90px !important;
+}
+
+.text-indent{
+    text-indent: 50px;
+}
+
+.padding-top-0{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.slide1{
+    background: url(http://vbithyd.ac.in/wp-content/uploads/2016/07/Slider-4.jpg);
+    background-repeat: no-repeat;
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+    background-size: contain;
+}
+
+.posit{
+    position: relative;
+    top: -425px;
+    color: white;
+    background: rgba(0, 0, 0, 0.34);
+}
+
+.padding-bottom-20{
+    padding-bottom: 20px !important;
+}
+
+/* @media screen and (min-width:991px) and (max-width:1200px) {
+    .posit{
+        position: absolute;
+        top: 260px;
+        left: 360px;
+    }
+} */
+
+.pos1{
+    position: absolute;
+    top: 600px;
+    width: 100%;
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+
+.pos2{
+    padding-top: 200px !important;
+}
+
+.price{
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+
+.speak{
+    width:315px;
+    height:385px
+}
+
+.title{
+    font-size: 17px !important;
+}
+
+.speak img{
+    width: 100%;
+    height: 100%;
+}
+
+.contain{
+    width:80%;
+    margin-left: 10%;
+}
+
+.google-red{
+    background-color: #ea4335;
+}
+
+.btn-width{
+    width:100%;
+    background-color: #97a0af !important;
+}
+
+.side{
+    width: -moz-available;
+}
+
+#exTab1 .tab-content {
+    color : #97a0af;
+    background-color: white;
+    padding : 5px 15px;
+  }
+  
+  #exTab2 h3 {
+    color : white;
+    background-color: #428bca;
+    padding : 5px 15px;
+  }
+  
+  /* remove border radius for the tab */
+  
+  #exTab1 .nav-pills > li > a {
+    border-radius: 0;
+  }
+  
+  /* change border radius for the tab , apply corners on top*/
+  
+  #exTab3 .nav-pills > li > a {
+    border-radius: 4px 4px 0 0 ;
+  }
+  
+  #exTab3 .tab-content {
+    color : white;
+    background-color: #428bca;
+    padding : 5px 15px;
+  }
+
+.navbar-fixed-top + .content-container {
+	margin-top: 70px;
+}
+.content-container {
+	margin: 0 130px;
+}
+
+
+
+#top-link-block.affix-top {
+    position: absolute; /* allows it to "slide" up into view */
+    bottom: -82px; /* negative of the offset - height of link element */
+    right: 10px; /* padding from the left side of the window */
+}
+#top-link-block.affix {
+    position: fixed; /* keeps it on the bottom once in view */
+    bottom: 18px; /* height of link element */
+    right: 10px; /* padding from the left side of the window */
+}
+
+.well{
+    background-color: none !important; 
+    border: 0px solid #e3e3e3 !important; 
+} 
+
+.well-sm{
+    background-color: none !important; 
+    border: 0px solid #e3e3e3 !important;
+}
+  
+
+
